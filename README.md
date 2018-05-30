@@ -1,4 +1,4 @@
-# KiwiIRC - Jitsi Meet Plugin
+# KiwiIRC -  Plugin
 
 This is a basic plugin template for Kiwi IRC. 
 
